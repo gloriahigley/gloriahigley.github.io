@@ -2,7 +2,7 @@
 title: "The Vulnerability of Starting Again"
 category: "career"
 date: "2018-08-16"
-slug: "he Vulnerability of Starting Again"
+slug: "The Vulnerability of Starting Again"
 tags:
     - career
 ---
