@@ -2,16 +2,16 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
-  siteTitle: "Gatsby Casper Starter", // Site title.
+  siteTitle: "Gloria Higley", // Site title.
   siteTitleAlt: "GatsbyJS Casper Theme Starter", // Alternative site title for SEO.
   siteLogo:
     "https://haysclark.github.io/gatsby-starter-casper/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A Casper themed GatsbyJS stater based on the Advanced Starter.", // Website description used for RSS feeds/meta description tag.
+    "A blog for anyone starting again.", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://haysclark.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "https://s25.postimg.cc/58w1shkqn/rawpixel-580223-unsplash.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Casper User", // The author name used in the RSS file
@@ -20,9 +20,9 @@ module.exports = {
   googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
-    "https://github.com/haysclark/gatsby-starter-casper",
-    "https://twitter.com/gatsbyjs",
-    "mailto:gatsbyjs@example.com"
+    "https://github.com/gloriahigley",
+    "https://twitter.com/gloriahigley",
+    "mailto:gloria.ann.higley@gmail.com"
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
